@@ -37,8 +37,8 @@ namespace AssemblyLine_If_Numbers
         public static int WorkingItemsPerMinute(int speed)
         {
             //int converted = (Math.Round(ProductionRatePerHour(speed) / 60));
-            int converted = Convert.ToInt32((Math.Round(ProductionRatePerHour(speed) / 60))); // To convert minutes 60 were used.
-            return converted;
+            var converted = (Math.Abs(ProductionRatePerHour(speed) / 60)); // To convert minutes 60 were used.
+            return (int)converted;
             throw new NotImplementedException("Please implement the (static) AssemblyLine.WorkingItemsPerMinute() method");
         }
     }
