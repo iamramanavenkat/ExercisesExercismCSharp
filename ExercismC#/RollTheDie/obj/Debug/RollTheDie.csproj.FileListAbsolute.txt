@@ -1,0 +1,6 @@
+C:\CodeBase\ExercisesExercismCSharp\ExercismC#\RollTheDie\bin\Debug\RollTheDie.exe.config
+C:\CodeBase\ExercisesExercismCSharp\ExercismC#\RollTheDie\bin\Debug\RollTheDie.exe
+C:\CodeBase\ExercisesExercismCSharp\ExercismC#\RollTheDie\bin\Debug\RollTheDie.pdb
+C:\CodeBase\ExercisesExercismCSharp\ExercismC#\RollTheDie\obj\Debug\RollTheDie.csprojAssemblyReference.cache
+C:\CodeBase\ExercisesExercismCSharp\ExercismC#\RollTheDie\obj\Debug\RollTheDie.exe
+C:\CodeBase\ExercisesExercismCSharp\ExercismC#\RollTheDie\obj\Debug\RollTheDie.pdb
